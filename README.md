@@ -12,7 +12,7 @@ Je suis activement à la recherche d'une alternance pour une durée de **12 mois
 
 ---
 
-### 🔧 Compétences techniques
+### 🔧 Compétences techniques :
 
 Voici les principaux langages et frameworks que j'ai appris :
 
@@ -42,19 +42,19 @@ Voici les principaux langages et frameworks que j'ai appris :
 
 ---
 
-### 💼 Expérience professionnelle
+### 💼 Expérience professionnelle :
 
 Avant ma reconversion, j’ai travaillé pendant plusieurs années dans la **communication**, la **vidéo** et le **journalisme**, notamment en tant que **chargé de communication** à la **Ville de Grenoble** et vidéaste pour des projets culturels tels que le **Street Art Fest Grenoble-Alpes**.
 
 ---
 
-### 📍 Localisation
+### 📍 Localisation :
 
 Je suis basé à **Grenoble** et disponible pour un poste en présentiel ou en **distanciel**, avec une grande flexibilité pour m’adapter aux besoins de l’équipe.
 
 ---
 
-### ⚽ Mes centres d'intérêt
+### ⚽ Mes centres d'intérêt :
 
 - 📸 **Photographie vidéoludique**
 - 🦹️ **BD et romans graphiques**
@@ -63,7 +63,7 @@ Je suis basé à **Grenoble** et disponible pour un poste en présentiel ou en *
 
 ---
 
-### 📫 Contactez-moi
+### 📫 Contactez-moi :
 
 Si vous avez une opportunité ou des recommandations, n'hésitez pas à me contacter :
 - [LinkedIn](https://www.linkedin.com/in/romain-chica-742a5329/)
@@ -119,28 +119,26 @@ Here are the main programming languages and frameworks I've learned:
 
 ---
 
-### 💼 Professional Experience
+### 💼 Professional Experience:
 
 Before my career change, I worked for several years in **communication**, **video production**, and **journalism**, particularly as a **communications officer** for the **City of Grenoble**, and a videographer for cultural projects such as the **Street Art Fest Grenoble-Alpes**.
 
 ---
 
-### 📍 Location
+### 📍 Location:
 
 I am based in **Grenoble** and available for in-person or **remote** positions, with a high level of flexibility to adapt to the needs of the team.
 
 ---
 
-### ⚽ My Interests
+### ⚽ My Interests:
 
 - 📸 **Videogame photography**
 - 🦹️ **Comic books and graphic novels**
 - 🎨 **Volunteering** in cultural associations
 - 🎶 **President of a cultural association** between 2014 and 2018 
 
-Voici la traduction :
-
-### 📫 Contact me
+### 📫 Contact me:
 
 If you have an opportunity or recommendations, feel free to contact me:
 - [LinkedIn](https://www.linkedin.com/in/romain-chica-742a5329/)
