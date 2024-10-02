@@ -66,7 +66,6 @@ Je suis basé à **Grenoble** et disponible pour un poste en présentiel ou en *
 ### 📫 Contactez-moi
 
 Si vous avez une opportunité ou des recommandations, n'hésitez pas à me contacter :
-- [GitHub](https://github.com/RomChicCampNum)
 - [LinkedIn](https://www.linkedin.com/in/romain-chica-742a5329/)
 - **Email** : romain.chica.reymond@gmail.com
 
@@ -144,6 +143,5 @@ Voici la traduction :
 ### 📫 Contact me
 
 If you have an opportunity or recommendations, feel free to contact me:
-- [GitHub](https://github.com/RomChicCampNum)
 - [LinkedIn](https://www.linkedin.com/in/romain-chica-742a5329/)
 - **Email**: romain.chica.reymond@gmail.com
