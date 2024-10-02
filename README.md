@@ -56,7 +56,7 @@ Je suis basé à **Grenoble** et disponible pour un poste en présentiel ou en *
 
 ### ⚽ Mes centres d'intérêt
 
-- 📸 **photographie vidéoludique**
+- 📸 **Photographie vidéoludique**
 - 🦹️ **BD et romans graphiques**
 - 🎨 **Bénévolat** dans des associations culturelles
 - 🎶 **Président d’une association** de 2014 à 2018
@@ -138,3 +138,12 @@ I am based in **Grenoble** and available for in-person or **remote** positions, 
 - 🦹️ **Comic books and graphic novels**
 - 🎨 **Volunteering** in cultural associations
 - 🎶 **President of a cultural association** between 2014 and 2018 
+
+Voici la traduction :
+
+### 📫 Contact me
+
+If you have an opportunity or recommendations, feel free to contact me:
+- [GitHub](https://github.com/RomChicCampNum)
+- [LinkedIn](https://www.linkedin.com/in/romain-chica-742a5329/)
+- **Email**: romain.chica.reymond@gmail.com
