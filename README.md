@@ -31,7 +31,7 @@ Voici les principaux langages et frameworks que j'ai appris :
 
 ---
 
-### Langages que je vais apprendre d'ici la fin de ma formation :
+### Langages et technologies que je vais utiliser d'ici la fin de ma formation :
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -106,7 +106,7 @@ Here are the main programming languages and frameworks I've learned:
 
 ---
 
-### Languages I will learn by the end of my training:
+### Languages and technologies I will use by the end of my training:
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
