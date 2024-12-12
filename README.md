@@ -78,7 +78,7 @@ Merci pour votre visite, et à bientôt !
 
 🇬🇧 **English Version**
 
-👋 Hello! I’m Romain Chica, currently transitioning to become a **Full Stack Developer**. After several years of experience in communication and video production, I am now enrolled in the **Application Developer Training Program** at the **Campus Numérique in the Alps**.
+👋 Hello! I’m Romain Chica, currently in professional retraining to become a **Full Stack Developer**. After several years of experience in communication and video production, I am now enrolled in the **Application Developer Training Program** at the **Campus Numérique in the Alps**.
 
 ---
 
