@@ -66,7 +66,6 @@ Je suis basé à **Grenoble** et disponible pour un poste en présentiel ou en *
 
 Si vous avez une opportunité ou des recommandations, n'hésitez pas à me contacter :
 - [LinkedIn](https://www.linkedin.com/in/romain-chica-742a5329/)
-- **Email** : romain.chica.reymond@gmail.com
 
 Merci pour votre visite, et à bientôt !
 
@@ -141,4 +140,3 @@ I am based in **Grenoble** and available for in-person or **remote** positions, 
 
 If you have an opportunity or recommendations, feel free to contact me:
 - [LinkedIn](https://www.linkedin.com/in/romain-chica-742a5329/)
-- **Email**: romain.chica.reymond@gmail.com
